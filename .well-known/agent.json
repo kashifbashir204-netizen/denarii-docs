@@ -1,0 +1,15 @@
+{
+  "name": "Denarii Machine Economy Orchestrator",
+  "description": "Autonomous multi-chain machine economy orchestrator connecting AI swarms to XRPL, Algorand, Hedera, and Flare.",
+  "url": "https://denarii-orchestrator.netlify.app",
+  "version": "2.0.0",
+  "provider": {
+    "name": "Denarii DFi",
+    "url": "https://denariidfi.net"
+  },
+  "capabilities": {
+    "settlement_rails": ["XRPL", "Algorand", "Hedera", "Flare"],
+    "pqc_standards": ["Falcon-512", "ML-DSA-44", "FN-DSA-1024"],
+    "protocols": ["MCP", "A2A", "C2PA", "W3C-DID"]
+  }
+}
