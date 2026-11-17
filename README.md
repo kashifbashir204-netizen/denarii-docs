@@ -20,6 +20,16 @@
 
 ---
 
+## Documentation Index
+
+- [Architecture & 8-Stage Lifecycle](docs/ARCHITECTURE.md): Complete breakdown of decoupled agent cognition, deterministic policy firewalls, and multi-chain execution.
+- [Token Registry & Multi-Chain Rails](docs/TOKEN_REGISTRY.md): Verified on-chain identifiers, issuer accounts, and network specializations.
+- [Post-Quantum Cryptography & Security](docs/PQC_SECURITY.md): Quantum-resistant cryptographic standards, NIST milestones, and ledger postures.
+- [Agentic Protocols: MCP & Google A2A](docs/AGENTIC_PROTOCOLS.md): Model Context Protocol tool routing and Google Agent2Agent specifications.
+- [Contributing Guide](CONTRIBUTING.md): How to submit proposals, report findings, and join developer challenges.
+
+---
+
 ## Official Ecosystem Properties
 
 | Resource | URL | Description |
