@@ -1,12 +1,16 @@
 # Denarii DFi — Machine Economy & Agentic Infrastructure
 
 > **Autonomous multi-chain machine economy orchestrator, agentic collaboration rails, and post-quantum cryptographic infrastructure operating across XRPL, Algorand, Hedera, and Flare.**  
-> *Founded in 2021 | 450+ Engineering Videos | 30,000+ Community Posts | Multi-Chain DLT Settlement*
+> *Founded in 2021 | 489+ Engineering Videos | 30,000+ Community Posts | Multi-Chain DLT Settlement*
 
 [![Live Orchestrator](https://img.shields.io/badge/Live_Orchestrator-denarii--orchestrator.netlify.app-06b6d4?style=for-the-badge)](https://denarii-orchestrator.netlify.app)
 [![Main Website](https://img.shields.io/badge/Main_Website-denariidfi.net-eab308?style=for-the-badge)](https://denariidfi.net)
-[![YouTube Videos](https://img.shields.io/badge/YouTube-450+_Videos-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Denarii_DFI_Build)
+[![YouTube Videos](https://img.shields.io/badge/YouTube-489+_Videos-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Denarii_DFI_Build)
 [![X Community](https://img.shields.io/badge/X-30k+_Posts-black?style=for-the-badge&logo=x)](https://x.com/Denarii_DFI)
+
+<p align="center">
+  <img src="denarii_ecosystem_poster.jpg" alt="Denarii DFi Multi-Chain Machine Economy Poster" width="100%" style="border-radius: 12px;" />
+</p>
 
 ---
 
