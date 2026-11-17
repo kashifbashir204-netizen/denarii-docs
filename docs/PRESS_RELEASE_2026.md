@@ -90,3 +90,4 @@ DFi should be evaluated through its documented functionality, verified token inf
 - **Engineering Video Channel:** https://www.youtube.com/@Denarii_DFI_Build
 - **Official X Account:** https://x.com/Denarii_DFI
 - **Public GitHub Documentation:** https://github.com/kashifbashir204-netizen/denarii-docs
+- **Medium Technical Publication:** https://medium.com/@denariidfi

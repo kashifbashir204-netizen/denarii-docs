@@ -46,6 +46,7 @@
 | **AI Influencers United** | [Talent Directory](https://denarii-orchestrator.netlify.app/?tab=ai-influencers-united&join=true) | Directory of verifiable agent nodes, digital twins, and swarm personas |
 | **One Million Developers** | [onemilliondevs.netlify.app](https://onemilliondevs.netlify.app) | Developer onboarding, bounties, and open builder challenges |
 | **Link Hub** | [linktr.ee/DenariiDFi](https://linktr.ee/DenariiDFi) | Universal verified ecosystem directory |
+| **Medium Publication** | [medium.com/@denariidfi](https://medium.com/@denariidfi) | Official long-form technical articles, press releases, and machine economy essays |
 | **YouTube Channel** | [@Denarii_DFI_Build](https://www.youtube.com/@Denarii_DFI_Build) | 450+ engineering videos and walkthroughs since 2021 |
 | **X / Twitter** | [@Denarii_DFI](https://x.com/Denarii_DFI) | 30,000+ technical updates and community commentary |
 | **Discord** | [Join Community](https://discord.gg/zCw4sCCDHD) | Developer and community forum |
