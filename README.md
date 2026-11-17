@@ -22,6 +22,7 @@
 
 ## Documentation Index
 
+- [Flagship Positioning & Press Release](docs/PRESS_RELEASE_2026.md): Official technical press release and multi-chain architecture statement.
 - [Architecture & 8-Stage Lifecycle](docs/ARCHITECTURE.md): Complete breakdown of decoupled agent cognition, deterministic policy firewalls, and multi-chain execution.
 - [Token Registry & Multi-Chain Rails](docs/TOKEN_REGISTRY.md): Verified on-chain identifiers, issuer accounts, and network specializations.
 - [Post-Quantum Cryptography & Security](docs/PQC_SECURITY.md): Quantum-resistant cryptographic standards, NIST milestones, and ledger postures.
